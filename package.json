@@ -1,0 +1,24 @@
+{
+	"name": "zibal",
+	"version": "1.0.0",
+	"description": "Zibal Payment Interface in NodeJS",
+	"main": "lib/index.js",
+	"scripts": {},
+	"keywords": [
+		"Zibal",
+		"Payment",
+		"Gateway",
+		"IPG"
+	],
+	"author": "Alireza Kamali <iAlirezaKML@outlook.com> (https://alireza.app)",
+	"license": "ISC",
+	"dependencies": {
+		"request": "^2.87.0"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"babel-preset-es2015": "^6.24.1",
+		"babel-preset-stage-0": "^6.24.1"
+	}
+}
